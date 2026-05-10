@@ -1,0 +1,23 @@
+[
+  {
+    "index": 0,
+    "timestamp": "2026-05-10T11:06:44.808Z",
+    "data": {
+      "message": "Genesis Block"
+    },
+    "previousHash": "0",
+    "hash": "d2adb8f98d4551b29e6233f9cfde7209fb04291c8049725446c1b16edd5d9639"
+  },
+  {
+    "index": 1,
+    "timestamp": "2026-05-10T11:08:33.037Z",
+    "data": {
+      "studentName": "David Brown",
+      "course": "B.Com",
+      "verificationId": "VER-7GGBM8DZ",
+      "timestamp": "2026-05-10T11:08:33.037Z"
+    },
+    "previousHash": "d2adb8f98d4551b29e6233f9cfde7209fb04291c8049725446c1b16edd5d9639",
+    "hash": "564d61678a378505f250cba10c62ca269bffd64f9050b7cc0a2eb67cb640a111"
+  }
+]
