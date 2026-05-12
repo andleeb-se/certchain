@@ -1,0 +1,10 @@
+{
+  "studentName": "anu",
+  "course": "bsc",
+  "verificationId": "VER-X8EWEFQ9",
+  "blockchainHash": "dbf3b042a29d1a37cdf8fcaa28aec52a12c748129ffdf8168cd3ecbeb35458ee",
+  "previousHash": "44cb751e7cb70f5438adcf41e6211889438acc8d5c2916f4640988d1a44b0db7",
+  "blockIndex": 1,
+  "status": "Verified",
+  "issueDate": "2026-05-12T12:21:23.439Z"
+}
