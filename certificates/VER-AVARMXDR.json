@@ -1,0 +1,10 @@
+{
+  "studentName": "nadia",
+  "course": "MFIL",
+  "verificationId": "VER-AVARMXDR",
+  "blockchainHash": "39c670096db7f32cd9f81551b94930714e26a1bb0dfa86a5e3b957ddad857c25",
+  "previousHash": "4584a245ab843ce16d3231cb93e136a00695472a9dec1810743faf8e5b323157",
+  "blockIndex": 1,
+  "status": "Verified",
+  "issueDate": "2026-06-02T05:19:34.099Z"
+}
